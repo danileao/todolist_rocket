@@ -1,6 +1,0 @@
-# Requisitos
-
-
-### Usuário
-[ ]  Cadastrar usuário
-[ ] 
